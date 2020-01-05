@@ -31,4 +31,6 @@ public interface ConstantConfig {
 					put(LOOKUP_OTHER_CONDITIONS, "otras condiciones");
 				}
 			});
+	
+	
 }
